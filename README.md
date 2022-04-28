@@ -1,6 +1,13 @@
 # my-test-cases
 
-
 Some of my test cases and bug reports.
 
-In progress ;) 
+Type of tests:
+* Functional 
+
+Tools used:
+* Testlink
+* MS Excel
+---------------------------------------
+
+:eyes:	In progress
